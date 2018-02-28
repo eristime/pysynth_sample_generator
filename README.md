@@ -41,6 +41,6 @@ parameters = {
 
 ### Notes:
 Input folder is relative to main.py. Every key has to have a value defined.
-Ranges function the same as Python range()-function.
+Ranges function the same as Python range()-function. Doesn't support generating only one sampple.
 
-No support for one sample generation.
+Pysynth http://mdoege.github.io/PySynth/ is provided with GPL licence and so is this software.
